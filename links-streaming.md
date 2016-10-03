@@ -10,3 +10,7 @@
 ## Projects
 
 * [Apache Beam](http://beam.incubator.apache.org/)
+
+## Data Science
+
+* [The anatomy of an architecture to bring data science into production](https://www.oreilly.com/ideas/what-is-hardcore-data-science-in-practice)
